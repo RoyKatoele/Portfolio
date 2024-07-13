@@ -8,22 +8,22 @@ My proactive attitude, strong work ethic, and attention to detail enable me to e
 
 # Projects/Work Experience
 
-## Business Workflow Implementation - Senior Tester (Test Automation Engineer)
+## Business Workflow Implementation
 Worked in a scrum team on various IBM BAW and ODM implementations. Responsibilities included system testing, FAT, creating test reports, setting up test processes, and automated performance and functional testing using tools like JMeter, SoapUI, and Robot Framework.
 
-## Product Information Management System - Senior Tester (Test Automation Engineer)
+## Product Information Management System
 Part of a team working on OpusCapita implementations, a Product Information Management system. Tasks involved system and system integration testing, supporting chain tests, creating test documentation, and automated testing using Selenium and Java.
 
-## Digital Legal Proceedings Software - Senior Tester (Test Automation Engineer)
+## Digital Legal Proceedings Software
 Worked in a scrum team on a software package for digital legal proceedings. Set up the test process, conducted various tests including system and regression tests, and maintained automated frontend tests using Protractor.
 
-## Mortgage Software - Junior Tester to Test Lead
+## Mortgage Software
 Led testing efforts for a mortgage mid and back-office software package. Duties included coordinating test activities across teams, client communication, improving test processes, and conducting various tests including system and integration tests.
 
-## Website Usability Testing - Tester/Interaction Designer
+## Website Usability Testing
 Designed interaction layouts based on client objectives and visitor statistics, and tested websites for usability and bugs using error guessing and exploratory testing.
 
-## Project Management - Project Manager
+## Project Management
 Managed project timelines, maintained client communication, and directed team efforts to ensure project goals were met.
 
 # Courses
