@@ -6,7 +6,7 @@ Hello! I'm Roy Katoele, a dedicated and passionate software tester from Balkbrug
 
 My proactive attitude, strong work ethic, and attention to detail enable me to excel in various testing environments. I am an effective communicator, which helps me work well within teams and share knowledge. I see testing not just as a job but as my passion, and I am committed to further developing my expertise in this field.
 
-# Projects/Work Experience
+# 💼 Projects/Work Experience
 
 ## Business Workflow Implementation
 Worked in a scrum team on various IBM BAW and ODM implementations. Responsibilities included system testing, FAT, creating test reports, setting up test processes, and automated performance and functional testing using tools like JMeter, SoapUI, and Robot Framework.
@@ -26,7 +26,7 @@ Designed interaction layouts based on client objectives and visitor statistics, 
 ## Project Management
 Managed project timelines, maintained client communication, and directed team efforts to ensure project goals were met.
 
-# Courses
+# 📚 Courses
 
 - **TMap Next® Foundation**: Foundation course on the TMap testing methodology.
 - **ISTQB Certified Tester, Foundation**: Fundamentals of software testing principles and practices.
@@ -44,7 +44,7 @@ Managed project timelines, maintained client communication, and directed team ef
 - **Introduction to Protractor**: Basics of Protractor for AngularJS application testing.
 - **Rapid Software Testing**: Context-driven software testing methods.
 
-# Tools
+# 🛠️ Tools
 
 ## Test Tools
 
@@ -97,7 +97,7 @@ Managed project timelines, maintained client communication, and directed team ef
 - **Mainframe**: High-performance computers for large-scale computing purposes.
 - **Robot Framework**: Generic test automation framework.
 
-# Tech Skills
+# ⚙️ Tech Skills
 
 ## Languages
 
@@ -148,7 +148,7 @@ Managed project timelines, maintained client communication, and directed team ef
 - **Rapid Software Testing**: Context-driven testing methodology.
 - **SAFe (Scaled Agile Framework)**: Framework for scaling agile practices to large organizations.
 
-# Soft Skills
+# ⭐ Soft Skills
 
 - Eager to learn
 - Result and customer-oriented
