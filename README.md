@@ -1,6 +1,6 @@
 # Portfolio
 
-# 👤 About Me
+# 👨‍💻 About Me
 
 Hello! I'm Roy Katoele, a dedicated and passionate software tester from Balkbrug, Netherlands. Born in 1984, I have built a career around ensuring software quality and reliability. I thrive on learning and continuously improving my skills, and I am highly results-oriented, customer-focused, analytical, and punctual. These qualities make me an effective tester who consistently delivers high-quality results.
 
